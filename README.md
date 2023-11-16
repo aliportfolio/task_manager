@@ -20,5 +20,5 @@ but i used some of (PHP / Laravel) features:
 - BaseApiController (I wrote the structure in: App\Http\Controllers\Api\BaseApiController.php)
 - (Services / Repositories) Pattern.
 - Handling Response with advanced way (i wrote the structure in files: App\Common\SharedMessages.php and App\Traits\Api\V1\AdvancedApiResponse.php).
-- Define config file in vue js to store token and request Headers.
+- Define config file in vue js to store configurations like Tokens and request Headers...etc for more dynamic structure
 - Unit Testing.

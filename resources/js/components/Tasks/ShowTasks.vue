@@ -106,7 +106,7 @@ export default {
             try {
                 await axios.get(`/api/tasks/${taskId}/change-status`)
                 .then((response) => {
-                    this.tasks[index] = response.data
+                    this.tasks[index] = response.data.data
                 })
             } catch (error) {
                 console.error(error);

@@ -5,7 +5,7 @@ Simple web application that allow you to Manage your tasks with filter (with Mys
 
 **Important Note:**
 
-Time didn't help me use all the features,
+Task is completed, but time didn't help me use all advanced features (improvements),
 but i used some of (PHP / Laravel) features:
 - Requests to validation.
 - Traits.

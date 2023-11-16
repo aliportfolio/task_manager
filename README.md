@@ -14,11 +14,13 @@ but i used some of (PHP / Laravel) features:
 - Vue js Front end with files structure.
 - SPA (single page application).
 - Handling Response with success and error messages dynamically.
+- Auth (login & Registeration) with Tokens.
 
 
 **Some advanced features i wanted to implement if I had the time:**
 - BaseApiController (I wrote the structure in: App\Http\Controllers\Api\BaseApiController.php)
 - (Services / Repositories) Pattern.
 - Handling Response with advanced way (i wrote the structure in files: App\Common\SharedMessages.php and App\Traits\Api\V1\AdvancedApiResponse.php).
-- Define config file in vue js to store configurations like Tokens and request Headers...etc for more dynamic structure
+- Define config file in vue js to store configurations like Tokens and request Headers...etc for more dynamic structure.
 - Unit Testing.
+- Advanced UI design with popup notifications.
